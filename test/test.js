@@ -12,3 +12,4 @@ describe('First two terms', function() {
       assert.strictEqual(main.fibonacci(1), 1);
     });
 });
+describe('Negatives', function() { it('should throw an error', function() { assert.throws(()=>{ main.fibonacci(-1) }, TypeError); });});
