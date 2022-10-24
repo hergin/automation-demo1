@@ -1,0 +1,22 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hergin/automation495.git"
+  },
+  "author": "hergin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hergin/automation495/issues"
+  },
+  "homepage": "https://github.com/hergin/automation495#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
